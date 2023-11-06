@@ -1,6 +1,8 @@
 # Web Application: Hierarchical Category Tree
 ## **Score: 30/30L**
 
+_To prevent code plagiarism, the source code will be published in February 2024, if you would like to view the code before this date, please contact the project owners_
+
 ### Team Members:
 > - [**Fiore** Jonathan](https://github.com/JonathanFiore)
 > - [**Gallicola** Renato](https://github.com/RenatoGallicola)
