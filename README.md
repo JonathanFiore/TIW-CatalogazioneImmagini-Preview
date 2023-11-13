@@ -26,6 +26,7 @@ _To prevent code plagiarism, the source code will be published in February 2024,
 
 ### Tools and Platforms used:
 > - <p>IDE: Eclipse<p>
+> - <p>DBMS: MySQL<p>
 > - <p>SQLWorkbench<p>
 > - <p>GitHub<p>
 
